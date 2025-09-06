@@ -38,15 +38,3 @@ Este proyecto busca replicar fenómenos acústicos como el de la Pirámide de Ch
 - PyVista / Trimesh (modelado 3D)
 - Soundfile (manejo de audio)
 
-### Ejemplo de uso (prototipo):
-```python
-import soundfile as sf
-from src.convolution import apply_convolution
-
-# Cargar sonido de entrada y respuesta al impulso
-x, fs = sf.read("data/inputs/aplauso.wav")
-h, _ = sf.read("data/responses/piramide_ir.wav")
-
-# Aplicar convolución
-y = apply_convolution(x, h, fs)
-sf.write("data/outputs/aplauso_pajaro.wav", y, fs)
