@@ -1,0 +1,16 @@
+name: acustica
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy
+  - scipy
+  - matplotlib
+  - ipywidgets
+  - jupyter
+  - ipykernel
+  - pysoundfile
+  - pip
+  - pip:
+      - pyroomacoustics==0.8.4
