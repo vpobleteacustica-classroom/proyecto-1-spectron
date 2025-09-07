@@ -7,8 +7,8 @@ conda env create -f environment.yml
 
 # acus220_primavera_2025
 Organización de proyectos a desarrollar en el semestre
-
-acustica/
+```
+proyecto-1-spectron/
 │── README.md                # Explicación del proyecto
 │── environment.yml           # Tu archivo de entorno conda
 │── docs/                     # Documentación y papers relacionados
@@ -23,6 +23,7 @@ acustica/
 │   ├── responses/            # Impulse responses o kernels
 │   ├── outputs/              # Resultados procesados
 │── tests/                    # Pruebas unitarias
+```
 
 # Proyecto Acústica – Convolución y Modelado 3D
 
