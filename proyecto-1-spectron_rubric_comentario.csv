@@ -1,0 +1,9 @@
+criterio,peso,nota,comentario
+Claridad del planteamiento del problema,0.15,6.8,El planteamiento es muy claro y bien enfocado; se entiende perfectamente el objetivo del proyecto y su relación con fenómenos acústicos reales.
+Justificación y contexto del experimento,0.10,6.5,"Excelente justificación teórica, con referencias pertinentes; se aprecia dominio conceptual del fenómeno acústico abordado."
+Metodología y organización del notebook,0.20,6.9,"Los notebooks presentan una estructura lógica impecable, combinando simulación, análisis y validación; todo el flujo de trabajo es reproducible."
+Calidad del código y buenas prácticas,0.15,6.7,"Código bien documentado, con uso adecuado de librerías; se nota un buen nivel de organización y comentarios que facilitan la comprensión."
+Análisis de resultados y visualizaciones,0.15,6.8,"Análisis detallado, con visualizaciones claras que reflejan comprensión del fenómeno y relación con la teoría acústica."
+Conclusiones y coherencia con objetivos,0.15,6.9,"Conclusiones bien argumentadas, integran teoría, práctica y resultados de manera coherente; destacan la interpretación y las futuras líneas de mejora."
+"Redacción, ortografía y estilo general",0.10,6.8,"Texto fluido, buena ortografía y estilo formal adecuado; las explicaciones son precisas y profesionales."
+Nota final (ponderada),1.00,6.8,"Excelente trabajo grupal con sólida base teórica y excelente ejecución experimental y computacional. Se aprecia dedicación, rigor y creatividad. ¡Felicitaciones por el esfuerzo y la calidad del resultado!"
