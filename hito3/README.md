@@ -54,5 +54,6 @@ hito3/
 │   └── outputs/              # Audio procesado
 ├── environment.yml           # Entorno conda para el hito 3
 ├── Hito3.ipynb               # Notebook principal con la demo
+├── Presentacion_hito3.pdf    # Presentación de los avances del hito 3
 └── README.md                 # Este archivo
 ```
